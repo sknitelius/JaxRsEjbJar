@@ -12,7 +12,11 @@ import javax.ws.rs.core.Application;
  *
  * @author Stephan Knitelius <stephan@knitelius.com>
  */
+<<<<<<< HEAD
 @ApplicationPath("/rest")
+=======
+@ApplicationPath("rest")
+>>>>>>> 845588fdf7a81e5b5efbc950a1b1191dae70e101
 public class JaxRsConfig extends Application {
 
 }
